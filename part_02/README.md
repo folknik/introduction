@@ -50,3 +50,7 @@ git config --global user.name "NEW NAME"
 git config --global user.mail "NEW MAIL"
 ```
 
+Показать список изменений
+```
+git status
+```
